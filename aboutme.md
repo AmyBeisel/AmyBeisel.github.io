@@ -6,8 +6,9 @@ subtitle: My Data Science Journey
 
 My name is Amy Beisel. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Eager to learn. 
+- Team player. 
+- I'm extremely loyal to my family.
 
 What else do you need?
 
