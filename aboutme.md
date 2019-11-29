@@ -1,19 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: My Data Science Journey
+subtitle: My Story
 ---
+### My History
+My name is Amy Beisel.  I feel as though I have been taken care of my whole life.  This is not a bad thing, as I am very thankful for my family. That said, I am also an extremly hard worker.  I was a profesional mountain biker for 10 years, crowned 2018 Marathon National Champion and x2 fatbike world champion.  Before this I was a vet tech for 10 years.  I have a huge passion for all animals and our environment.     
 
-My name is Amy Beisel. I have the following qualities:
+- I have no background in Computer Science or Data Science, but am extremly excited to learn.  I loved statistics and math while in College studing Biology and Psychology.  
+ 
 
-- Eager to learn. 
-- Team player. 
-- I'm extremely loyal to my family.
+## Future Self
 
-What else do you need?
+I hope to work with a company that shares the same passions as I do.  Misson of helping animals and saving the environment.  I want to be able to take care of myself and I think Data Science with Lambda is my answer. 
 
-## this is a header
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
