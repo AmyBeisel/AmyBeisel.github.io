@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: My Story
 ---
-### History
+## History
 My name is Amy Beisel.  I feel as though I have been taken care of my whole life.  This is not a bad thing, as I am very thankful for my family. That said, I am also an extremly hard worker.  I was a profesional mountain biker for 10 years, crowned 2018 Marathon National Champion and x2 Fatbike World Champion.  Before this I was a veterinarian technician for 10 years.  I have a huge passion for all animals and our environment.     
 
 - I have no background in Computer Science or Data Science, but am extremly excited to learn.  I loved statistics and math while in college studying Biology and Psychology.  
