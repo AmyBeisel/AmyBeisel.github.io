@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Amy Beisel
+title: Amy Beisel's Data Science Portfolio
 
 # Short description of your site
 description: A collection of my Data Science projects
@@ -69,15 +69,15 @@ author:
 social-network-links:
   #rss: true
   email: "amy.beisel@gmail.com"
-  facebook: amy.beisel.7
+ # facebook: amy.beisel.7
   github: AmyBeisel
-  twitter: beisel_amy
+# twitter: beisel_amy
 #  reddit: yourname
   linkedin: amybeisel
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: amybeisel
+#  instagram: amybeisel
 #  youtube: user/deanat78
 #  spotify: yourname
   telephone: 719.331.1801
