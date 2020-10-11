@@ -5,6 +5,6 @@ title: Resume
 
 
 
-<iframe src=""
-  width="850" height="1100" seamless></iframe> 
+https://docs.google.com/viewer?url=
+
 
