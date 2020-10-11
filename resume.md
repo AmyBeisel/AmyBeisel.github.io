@@ -3,9 +3,13 @@ layout: page
 title: Resume
 ---
 
-<!-- Embed PDF File -->
-<object src="Resume-Linkedin-2020.pdf" type="application/x-pdf" title="SamplePdf" width="500" height="720">
-    <a href="Resume-Linkedin-2020.pdf">shree</a> 
+https://github.com/AmyBeisel/AmyBeisel.github.io/raw/master/Resume-Linkedin-2020.pdf
+
+<object data="https://github.com/AmyBeisel/AmyBeisel.github.io/raw/master/Resume-Linkedin-2020.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/AmyBeisel/AmyBeisel.github.io/raw/master/Resume-Linkedin-2020.pdf
+">Download PDF</a>.</p>
+    </embed>
 </object>
 
 
