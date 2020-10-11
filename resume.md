@@ -3,6 +3,9 @@ layout: page
 title: Resume
 ---
 
-<iframe src="Resume-Linkedin-2020.pdf" style="width:1000px; height:800px;" frameborder="0" allowfullscreen></iframe>
+<!-- Embed PDF File -->
+<object data="Resume-Linkedin-2020.pdf" type="application/x-pdf" title="SamplePdf" width="500" height="720">
+    <a href="Resume-Linkedin-2020.pdf">shree</a> 
+</object>
 
 
