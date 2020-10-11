@@ -3,5 +3,5 @@ layout: page
 title: Resume
 ---
 
-<iframe src=""
-  width="850" height="1100" seamless></iframe> 
+<a href="Resume-Amy-Beisel-2020.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+
