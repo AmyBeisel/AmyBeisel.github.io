@@ -3,6 +3,6 @@ layout: page
 title: Resume
 ---
 
-<embed src="https://github.com/AmyBeisel/AmyBeisel.github.io/raw/master/Resume-Linkedin-2020.pdf" width="500" height="375">
+<iframe src="" style="width:718px; height:700px;" frameborder="0"></iframe>
 
 
