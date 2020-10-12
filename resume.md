@@ -3,7 +3,7 @@ layout: page
 title: Resume
 ---
 
-This browser does not support PDFs. Please download the PDF to view it.
+This browser does not support PDFs. Please download the PDF to view my resume.
 
 https://github.com/AmyBeisel/AmyBeisel.github.io/raw/master/Resume-Linkedin-2020.pdf
 
