@@ -23,6 +23,9 @@ description: A collection of my Data Science projects
 
 # List of links in the navigation bar
 navbar-links:
+  Projects: "Projects"
+    - Are Honey Bees on the Colapse?: "https://medium.com/@amybeisel/are-honeybees-on-the-collapse-7d62f54a364e"
+    - KNN (K-Nearest Neighbors) from Scratch: "https://medium.com/@amybeisel/knn-k-nearest-neighbors-classifier-from-scratch-2087561010dc"
   About Me: "aboutme"
   Resume: "resume"
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
