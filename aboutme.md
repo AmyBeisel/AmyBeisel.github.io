@@ -3,17 +3,17 @@ layout: page
 title: About me
 subtitle: My Story
 ---
-## History
-My name is Amy Beisel.  I feel as though I have been taken care of my whole life.  This is not a bad thing, as I am very thankful for my family. That said, I am also an extremly hard worker.  I was a professional mountain biker for 10 years, crowned 2018 Marathon National Champion and x2 Fatbike World Champion.  Before this I was a veterinarian technician for 10 years.  I have a huge passion for all animals and our environment.     
 
-- I have no background in Computer Science or Data Science, but am extremly excited to learn.  I loved statistics and math while in college studying Biology and Psychology.  
- 
-
-## Future Self
-
-I hope to work with a company that shares the same passions as I do - a misson of helping animals and saving the environment.  I want to be able to take care of myself and I think Data Science with Lambda is my answer. 
-
-- Continue to improve my skills, work hard and be a good person. 
+I am lucky enough to have pursued some of my passions over the course of my career. As a forever-animal lover, I cared
+for my patients of all sizes in a small/large animal clinic as a vet tech for nearly 8 years. It's a heartwrenching job that
+ultimately led me to another passion - professional mountain biking. It took nearly a decade of dedication and sacrifice to
+win a National Title and represent the USA. Aer being one spot short of the Olympic long team, I decided to reevaluate
+my next chapter - Data Science. In college, I enjoyed math and science, especially statistics and genetics. I retired early at
+the top of my game to pursue a career in Data Science - currently working 4 part-time jobs and attending school 5 times a
+week every evening. In my next decade, I want to combine the skills that I have obtained throughout my life - hard work,
+empathy, commitment, and spirit - with my newly-honed expertise in Data Analysis, Machine Learning, and Computer
+Science. I am also embarking on an entrepreneurship journey as a beekeeper, establishing my brand, High Altitude Hives,
+successfully selling out my first harvest! Check out my first data science project about the decline of bee colonies below.
 
 
 
