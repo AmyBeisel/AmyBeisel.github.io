@@ -25,8 +25,8 @@ navbar-links:
     - Are Honeybees on the Colapse?: "https://medium.com/@amybeisel/are-honeybees-on-the-collapse-7d62f54a364e/"
   About Me: "aboutme"
   Resume: "resume"
-    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    #- Learn markdown: "http://www.markdowntutorial.com/"
+     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
   #Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
