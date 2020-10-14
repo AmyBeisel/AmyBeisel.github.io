@@ -13,7 +13,7 @@ the top of my game to pursue a career in Data Science - currently working 4 part
 week every evening. In my next decade, I want to combine the skills that I have obtained throughout my life - hard work,
 empathy, commitment, and spirit - with my newly-honed expertise in Data Analysis, Machine Learning, and Computer
 Science. I am also embarking on an entrepreneurship journey as a beekeeper, establishing my brand, High Altitude Hives,
-successfully selling out my first harvest! Check out my first data science project about the decline of bee colonies on the Projects page. 
+successfully selling out my first harvest! Check out my first data science project about the decline of bee colonies on the Blog page above. 
 
 
 
