@@ -4,7 +4,7 @@ title: About me
 subtitle: My Story
 ---
 
-I am lucky enough to have pursued some of my passions over the course of my career. As a forever-animal lover, I cared
+<img align="left" src="" width="400">I am lucky enough to have pursued some of my passions over the course of my career. As a forever-animal lover, I cared
 for my patients of all sizes in a small/large animal clinic as a vet tech for nearly 8 years. It's a heartwrenching job that
 ultimately led me to another passion - professional mountain biking. It took nearly a decade of dedication and sacrifice to
 win a National Title and represent the USA. After being one spot short of the Olympic long team, I decided to reevaluate
