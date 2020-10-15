@@ -22,7 +22,7 @@ url: "https://amybeisel.github.io"
 # List of links in the navigation bar
 navbar-links:
   Blog: "https://amybeisel.github.io"
-    - Are Honeybees on the Colapse? : "http://deanattali.com/beautiful-jekyll/"
+  
   About Me: "aboutme"
   Resume: "resume"
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
